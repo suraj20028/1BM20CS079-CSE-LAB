@@ -7,7 +7,7 @@
 
 ## Sem 3
 
-1. [Data Structures (DS)](https://github.com/suraj20028/1BM20CS079-CSE-LAB/tree/main/3RD-SEM/1BM20CS079-ADA-LAB)
+1. [Data Structures (DS)](https://github.com/suraj20028/1BM20CS079-CSE-LAB/tree/main/3RD-SEM/1BM20CS079-DS-LAB)
 2. [Object Oriented Java Programming (OOJ)](https://github.com/suraj20028/1BM20CS079-CSE-LAB/tree/main/3RD-SEM/1BM20CS079-JAVA-LAB)
 
 ## Sem 4
