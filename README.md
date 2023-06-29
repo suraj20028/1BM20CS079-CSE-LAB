@@ -26,4 +26,4 @@
 
 1. [Machine Learning (ML)](https://github.com/suraj20028/1BM20CS079-CSE-LAB/tree/main/6TH-SEM/1BM20CS079-ML-LAB)
 2. [Big Data Analytics (BDA)](https://github.com/suraj20028/1BM20CS079-CSE-LAB/tree/main/6TH-SEM/1BM20CS079-BDA-LAB)
-3. [OOMD](https://github.com/suraj20028/1BM20CS079-CSE-LAB/tree/main/6TH-SEM/1BM20CS079-OOMD-LAB)
+3. [Object Oriented Modelling and Design (OOMD)](https://github.com/suraj20028/1BM20CS079-CSE-LAB/tree/main/6TH-SEM/1BM20CS079-OOMD-LAB)
